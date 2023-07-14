@@ -4,6 +4,8 @@ A better version of Gimp's threshold alpha filter that mimicks curves on alpha a
 
 
 ![image](https://github.com/LinuxBeaver/Threshold-Alpha-2---Gimp-Plugin/assets/78667207/6d731c1b-2237-40fb-b709-a8c1aa8609e8)
+For more info on the seperate Glossy Balloon text styling plugin go here.
+https://github.com/LinuxBeaver/GEGL-glossy-balloon-text-styling
 
 ## OS specific location to put GEGL Filter binaries 
 
