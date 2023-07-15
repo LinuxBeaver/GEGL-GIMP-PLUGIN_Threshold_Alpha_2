@@ -95,7 +95,6 @@ erase = gegl_node_new_child (gegl,
   gegl_node_link_many (input, white, behind, alphaslider, c2a, NULL);
 /*Black color fill is put inside the behind blend mode. Below a white color overlay to make a "layer mask"  */
   gegl_node_connect_from (behind, "aux", black, "output"); 
-  gegl_node_link_many (input, black, NULL);
 
  
 /*The only instruction for the GUI is here. This filter has only one slider*/
